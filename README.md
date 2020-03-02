@@ -33,7 +33,7 @@
 
 # 3. 액션 버튼 생성
 
-## 3. 1 사이드 바 메뉴 > 상세 설정
+## 3. 1 사이드 바 메뉴 > 관리 > 상세 설정
 
 ![kakao_channel_action_button_1](./img/kakao_channel_action_button_1.PNG)
 
