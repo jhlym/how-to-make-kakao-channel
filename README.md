@@ -9,7 +9,8 @@
 카카오계정 로그인 > 비즈니스 계정 이용약관 동의 > 파트너 정보 입력 > 사용자 정보 입력 > 파트너 심사
 
 *참고*
-- ![kakao_biz_register](./img/kakao_biz_register.PNG)
+
+![kakao_biz_register](./img/kakao_biz_register.PNG)
 
 - [비즈 계정 생성 참조](https://cs.kakao.com/helps?articleId=1073191787&service=34&category=398&device=1224&locale=ko#1073191787)
 
@@ -24,7 +25,9 @@
 
 
 *참고*
-- ![kakao_biz_channel_register](./img/kakao_biz_channel_register.PNG)
+
+![kakao_biz_channel_register](./img/kakao_biz_channel_register.PNG)
+
 - [비즈니스 채널 신청 가이드](https://cs.kakao.com/helps?articleId=1073193248&service=102&category=282&device=1688&locale=ko#1073193248)
 
 
